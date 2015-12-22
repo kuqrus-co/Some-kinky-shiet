@@ -1,0 +1,11 @@
+CloseProcesses:
+HKLM\...\Run: [] => [X]
+Winlogon\Notify\ScCertProp: wlnotify.dll [X]
+HKU\S-1-5-18\...\RunOnce: [SpUninstallDeleteDir] => rmdir /s /q "\SearchProtect"
+ShellIconOverlayIdentifiers: [IconOverlayEx] -> {E1773C0E-364D-4210-B831-72F5A359E88F} => D:\Users\Ash\AppData\Local\IconOverlayEx.dll [2015-06-20] ()
+D:\Users\Ash\AppData\Local\IconOverlayEx.dll 
+Hosts: 
+Task: {4BB36565-C2BD-4F03-B3C5-ECBBF76045E4} - System32\Tasks\{6BDD1CF3-CEFF-4539-AB7E-F66A11BC45E4} => 
+DeleteKey: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg\Coupon Alert EPM Support 
+DeleteKey: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg\ShopAtHomeWatcher
+DeleteKey: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg\ShopAtHomeUpdater
